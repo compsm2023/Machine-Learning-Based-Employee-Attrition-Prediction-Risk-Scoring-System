@@ -1,5 +1,5 @@
 # 🔵 PAN Attrition Intelligence Dashboard
-### Machine Learning–Based Employee Attrition Prediction & Risk Scoring System
+### Machine Learning–Based Employee Attrition Prediction & Risk Scoring System (https://palo-alto-networks-attrition-dashboard.streamlit.app/)
 **Palo Alto Networks — HR Analytics Internship Project**
 
 ---
